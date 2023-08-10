@@ -1,4 +1,4 @@
-/************************* Conditional Statement ******************/
+/************************** Conditional Statement ******************/
 
     //declare a integer type variable
     // int age;
