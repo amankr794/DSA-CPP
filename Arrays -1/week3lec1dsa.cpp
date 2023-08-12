@@ -2,7 +2,7 @@
 #include <limits.h>
 using namespace std;
 
-/********************************** Arrays are by default pass using Pass By Refrences *******************************/
+/********************************** Arrays are by default pass using Pass By Refrences ********************************/
 void printArray(int arr[], int size)
 {
 
