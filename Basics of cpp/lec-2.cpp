@@ -2,15 +2,15 @@
 using namespace std;
 
 int main(){
+    
+    // int a = 5;
+    // int b = 3;
 
-    int a = 5;
-    int b = 3;
-
-
+    
     /* cpp operators */
     // cout << (a<=b) << endl;
 
-    cout << !(a==5);
+    // cout << !(a==5);
     
 
     
@@ -65,3 +65,6 @@ int main(){
     float a=5.43,b=2.653;
     float c=a/b;
     cout<<c;
+
+    return 0;
+}
